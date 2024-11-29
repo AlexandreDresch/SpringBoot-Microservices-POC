@@ -1,0 +1,20 @@
+# Arquivos gerados pelo Maven
+target/
+*.iml
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do IntelliJ/IDEA
+.idea/
+*.iws
+*.ipr
+
+# Configurações do Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
